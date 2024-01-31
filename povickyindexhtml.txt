@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>loopstodios assignment</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <img src="./images/logo.svg" alt="logo" />
+        <ul>
+          <li>About</li>
+          <li>Careers</li>
+          <li>Events</li>
+          <li>Products</li>
+          <li>Support</li>
+        </ul>
+        <img src="./images/icon-hamburger.svg" alt="ham" class="ham">
+      </nav>
+      <h1>
+        Immersive<br />
+        experiences<br />
+        that deliver
+      </h1>
+    </header>
+
+    <main>
+      <section>
+        <img
+          src="./images/desktop/image-interactive.jpg"
+          alt="image-interactive"
+        />
+        <div>
+          <h1>
+            The leader in <br />
+            interactive VR
+          </h1>
+          <p>
+            Founded in 2011, Loopstudios has been producing world-class virtual
+            reality projects for some of the best companies around the globe.
+            Our award-winning creations have transformed businesses through
+            digital experiences that bind to their brand.
+          </p>
+        </div>
+      </section>
+    </main>
+    <div class="class">
+      <h1 id="demo">Our creations</h1>
+      <button>See all</button>
+    </div>
+
+    <div class="povicky">
+      <div>
+        <h1>
+          Deep <br />
+          earth
+        </h1>
+      </div>
+      <div>
+        <h1>
+          Night <br />
+          arcade
+        </h1>
+      </div>
+      <div>
+        <h1>
+          <b>
+            Soccer <br />
+            team VR</b
+          >
+        </h1>
+      </div>
+      <div>
+        <h1>
+          The <br />
+          grid
+        </h1>
+      </div>
+      <div>
+        <h1>From up <br />above VR</h1>
+      </div>
+      <div>
+        <h1>Pocket borealis</h1>
+      </div>
+      <div>
+        <h1>The <br />curiosity</h1>
+      </div>
+      <div>
+        <h1>
+          Make it <br />
+          fisheye
+        </h1>
+      </div>
+    </div>
+    <footer>
+       <nav> 
+         <div>
+            <img src="./images/logo.svg" alt="logo2" />
+         </div>
+         <div>
+            <img src="./images/icon-facebook.svg" alt="facebook" />
+            <img src="./images/icon-twitter.svg" alt="icon-twitter" />
+            <img src="./images/icon-pinterest.svg" alt="icon-pinterest" />
+            <img src="./images/icon-instagram.svg" alt="icon-instagram" />
+         </div>
+        </nav>
+      <small>
+        <div>
+          <ul>
+            <li>About</li>
+            <li>Careers</li>
+            <li>Events</li>
+            <li>Products</li>
+            <li>Support</li>
+          </ul>
+          <p>© 2021 Loopstudios. All rights reserved.</p>
+        </div>
+      </small>
+    </footer>
+  </body>
+</html>

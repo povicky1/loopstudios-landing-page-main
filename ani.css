@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: aqua;
+}
+div{
+    transition: 10s;
+    transform: translateX(600px);
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
